@@ -31,7 +31,7 @@ const MiddleTitle = () => {
         alignItems: "center",
         justifyContent: "center",
         boxSizing: "border-box",
-        padding: "30px"
+        padding: "40px"
     }
   return (
       <div style={largeContainer}>
